@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		BE98C4EF28D1362E000C0B86 /* helloworld */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = helloworld; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE98C4F228D1362E000C0B86 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		BE98C4F928D13734000C0B86 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				BE98C4F228D1362E000C0B86 /* main.swift */,
+				BE98C4F928D13734000C0B86 /* README.md */,
 			);
 			path = helloworld;
 			sourceTree = "<group>";
